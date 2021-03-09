@@ -1,0 +1,74 @@
+*{
+    background-color: black;
+}
+
+
+
+footer{
+
+    height: 10%;
+}
+
+#staticEmail{
+    text-align: center;
+    color: greenyellow;
+}
+
+nav{
+    justify-content: center;
+}
+
+#name{
+    margin-top: 30px;
+}
+#MAVENVIDEO{
+    width: 100vh;
+    height: 24vh;
+}
+#EclipseVideo{
+    width: 100vh;
+    height: 24vh;
+}
+
+nav li{
+    line-height: 2.5rem;
+    position: relative;
+    list-style-type: none;
+}
+
+nav li:hover ul{
+    display: block;
+    text-decoration-color: greenyellow;
+  
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 0 2.5em;
+    text-decoration: none;
+    transition: .4s;
+  
+}
+
+nav a:hover{
+    background: #111;
+    
+}
+
+nav li li {
+    background: black;
+    transition: all 4s;
+  
+}
+.container{
+    background-color: black;
+}
+
+#SpecialProject{
+    height: 250px;
+}
+
+#cabecera{
+    height: 400px;
+}
